@@ -6,7 +6,7 @@ In this Arduino lab you will write a program that uses other features of the Ada
 * Motion Sensor
 * A 3-axis accelerometer
 * Capacitive Touch sensor
-* Two large buttons
+* Two large left and right buttons
 * Small center button
 * Slide switch 
 
