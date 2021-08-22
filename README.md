@@ -1,5 +1,6 @@
 ![](CircuitPlaygroundLabeled.jpg)   
-# Use other features of an Adafruit Circuit Playground as an input device in a Processing program
+Use other features of an Adafruit Circuit Playground as an input device in a Processing program
+===============================================================================================
 In this Arduino lab you will write a program that uses other features of the Adafruit Circuit Playground as an controller for a Processing program. The circuit playground has 16 inputs. Adafruit has a detailed description [here](https://learn.adafruit.com/introducing-circuit-playground/guided-tour). In addition to the light sensor that we used in the previous assignment, the circuit playground also has a:
 * Temperature Sensor
 * Microphone Audio Sensor
@@ -28,3 +29,10 @@ public void draw() {
   System.out.println();
 }
 ```
+Write your own program
+----------------------
+Using the sample program as a guide, write your own program that uses on or more of the inputs. Your program doesn't have to work or look like any other. Have fun and be creative! Submit the .pde file to Google Classroom when you are happy with your program. You should be able to find it in the *My Documents | Processing* folder. Don't forget to click the *Mark as done* button.
+
+Samples of Student Work
+-----------------------
+None yet! 
