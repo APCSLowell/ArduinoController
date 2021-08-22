@@ -31,7 +31,7 @@ public void draw() {
 ```
 Write your own program
 ----------------------
-Using the sample program as a guide, write your own program that uses on or more of the inputs. Your program doesn't have to work or look like any other. Have fun and be creative! Submit the .pde file to Google Classroom when you are happy with your program. You should be able to find it in the *My Documents | Processing* folder. Don't forget to click the *Mark as done* button.
+Using the sample program as a guide, write your own program that uses one or more of the inputs. Your program doesn't have to work or look like any other. Have fun and be creative! Submit the .pde file to Google Classroom when you are happy with your program. You should be able to find it in the *My Documents | Processing* folder. Don't forget to click the *Mark as done* button.
 
 Samples of Student Work
 -----------------------
