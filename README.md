@@ -38,4 +38,4 @@ Samples of Student Work
 Here's a program where the student used the microphone input to create an oscilloscope   
 ![](Oscilloscope1.gif)   
 In this program the student used both the light sensor and the buttons to control the rotating pattern of dots
-![](SymmetricalShapes.gif)   
+![](Shapes.gif)   
