@@ -9,7 +9,6 @@ In this Arduino lab you will write a program that uses other features of the Ada
 * A 3-axis accelerometer
 * Capacitive Touch sensor
 * Two large left and right buttons
-* Small center button
 * Slide switch 
 
 Here's a sample program that will print the values of 16 inputs. Run the program and then press, touch and manipulate the various sensors to see how they work.
@@ -32,7 +31,9 @@ public void draw() {
 ```
 Write your own program
 ----------------------
-Using the sample program as a guide, write your own program that uses one or more of the inputs. Your program doesn't have to work or look like any other. Have fun and be creative! Submit the .pde file to Google Classroom when you are happy with your program. You should be able to find it in the *My Documents | Processing* folder. Don't forget to click the *Mark as done* button. *Note: Don't name your program "Arduino"*
+Using the sample program as a guide, write your own program that uses one or more of the inputs. Your program doesn't have to work or look like any other, you can add more features to your previous virtual pet program or create a new. Have fun and be creative! 
+
+When you are happy with your program, have a friend make a short video of you using your program. The video need only show your hand, the arduino and your program's output, please don't include anyone's face in the video. Convert the video to an animated gif using a free converter like [ezgif.com](https://ezgif.com/). Use ezgif's *cut video* or a similar option to edit your video to under 10 seconds and less than 25MB. Upload your animated gif to your VirtualPet repository. Submit the link to your gif to Google Classroom. Don't forget to click the *Mark as done* button. 
 
 Samples of Student Work
 -----------------------
