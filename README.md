@@ -37,7 +37,13 @@ When you are happy with your program, have a friend make a short video of you us
 
 Samples of Student Work
 -----------------------
-Here's a program where the student used the microphone input to create an oscilloscope   
-![](Oscilloscope1.gif)   
-In this program the student used both the light sensor and the buttons to control the rotating pattern of dots
-![](Shapes.gif)   
+[Albert](https://github.com/alshi31/VirtualPet/blob/gh-pages/Albert%20Shi's%20Adafruit%20Circuit%20Playground%20GIF.gif)   
+[Tiffany](https://github.com/TILOUIE2/VirtualPet/blob/gh-pages/season_gif.gif)   
+[Keneth](https://github.com/KenethL/VirtualPet/blob/gh-pages/Arduino%20Game.gif)   
+[Pansy](https://github.com/pakuang/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)   
+[Johnny](https://github.com/Jlin202/VirtualPet/blob/gh-pages/ezgif-4%20final-b2ff005a7942.gif)   
+[Chris](https://github.com/TophTheBro/ArduinoController/blob/main/ezgif.com-gif-maker.gif)   
+[Sam](https://github.com/SamRosenblum415/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)   
+[Tyler](https://github.com/ty237/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(3).gif)   
+
+
