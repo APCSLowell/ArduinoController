@@ -37,7 +37,12 @@ When you are happy with your program, have a friend make a short video of you us
 
 Samples of Student Work
 -----------------------
+[Viva](https://github.com/vivavoong/VirtualPet/blob/gh-pages/processing_differentinputs.gif)   
+[Kaitlin](https://github.com/kaiyenpepper/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(2).gif)   
+[Tiffany](https://github.com/tiffanyt11/VirtualPet/blob/gh-pages/845f586ee71d4459bf3b82f9efcedebb.gif)   
+[Michelle](https://github.com/mitan4/VirtualPet/blob/gh-pages/bird.gif)   
 [Jimmy](https://github.com/Jimmy1433223/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Alex](https://github.com/AlexHackathon/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)   
 [Cameron](https://github.com/CaNguyen1/VirtualPet/blob/gh-pages/IMG_6116.GIF)   
 [Mikey](https://github.com/miosullivan/ArduinoController/blob/main/ezgif.com-gif-maker%20(1).gif)   
 [NaH](https://github.com/MoonNash/VirtualPet/blob/gh-pages/IMG_2876.GIF)   
