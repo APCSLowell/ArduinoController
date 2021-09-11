@@ -47,7 +47,7 @@ Samples of Student Work
 [Alex](https://github.com/AlexHackathon/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)   
 [Cameron](https://github.com/CaNguyen1/VirtualPet/blob/gh-pages/IMG_6116.GIF)   
 [Mikey](https://github.com/miosullivan/ArduinoController/blob/main/ezgif.com-gif-maker%20(1).gif)   
-[NaH](https://github.com/MoonNash/VirtualPet/blob/gh-pages/IMG_2876.GIF)   
+[Nash](https://github.com/MoonNash/VirtualPet/blob/gh-pages/IMG_2876.GIF)   
 [Federico](https://github.com/feaprile/ArduinoController/blob/main/ezgif.com-gif-maker%20(1).gif)   
 [Koey](https://github.com/koeychan/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif.gif)   
 [Kenny](https://github.com/KennyCh13/VirtualPet/blob/gh-pages/Use%20other%20inputs%20of%20an%20Adafruit%20Circuit%20Playground%20in%20a%20Processing%20program.gif)   
