@@ -60,5 +60,16 @@ Samples of Student Work
 [Chris](https://github.com/TophTheBro/ArduinoController/blob/main/ezgif.com-gif-maker.gif)   
 [Sam](https://github.com/SamRosenblum415/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)   
 [Tyler](https://github.com/ty237/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(3).gif)   
-
+[Karina](https://github.com/kaanders17/ArduinoController/blob/main/Arduino%20Controller%20GIF.GIF)   
+[Bruno](https://github.com/bruno-415/VirtualPet/blob/gh-pages/ufo)
+[Damian](https://github.com/dabogdon/ArduinoController/blob/main/ezgif-4-0ce17385d59a.gif)
+[Paolo](https://github.com/paolo415/VirtualPet/blob/gh-pages/lightSensorShark.gif) 
+[William](https://github.com/wicao1/VirtualPet/blob/gh-pages/other_arduino_buttons.gif)
+[Alvin](https://github.com/alchan6/VirtualPet/blob/gh-pages/Other%20Arduino%20Sensor.gif)
+[Christina](https://github.com/christina88chan/VirtualPet/blob/0c54b695443327fda79e071b026affb0292311e8/ezgif.com-gif-maker.gif)
+[Haden](https://github.com/hachan-beep/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20%282%29.gif)
+[Joanne](https://github.com/joannechenn/ArduinoController/blob/main/ezgif.com-gif-maker%20%281%29.gif)
+[Irisa](https://github.com/irisac415/ArduinoController/blob/main/Fish%20Buttons.gif)
+[Christopher](https://github.com/ChGee/VirtualPet/blob/gh-pages/135C22BA-F855-477C-B751-C6C8E86F66B6.gif)
+[Wing](https://github.com/wilai3/ArduinoController/blob/main/ezgif.com-gif-maker%20%282%29.gif)
 
