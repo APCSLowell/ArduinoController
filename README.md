@@ -73,7 +73,7 @@ Samples of Student Work
 [Christopher](https://github.com/ChGee/VirtualPet/blob/gh-pages/135C22BA-F855-477C-B751-C6C8E86F66B6.gif)   
 [Wing](https://github.com/wilai3/ArduinoController/blob/main/ezgif.com-gif-maker%20%282%29.gif)   
 [Caitlyn](https://github.com/calam1818/VirtualPet/blob/gh-pages/ezgif-2-ad9d63fa07a1.gif)   
-[Breanna](https://github.com/brlau6/VirtualPet/blob/gh-pages/Abstract%20Rainbow%20Lines%20-%20Buttons%20and%20Light%20Sensor.gif)
+[Breanna](https://github.com/brlau6/VirtualPet/blob/gh-pages/Abstract%20Rainbow%20Lines%20-%20Buttons%20and%20Light%20Sensor.gif)   
 [Matthew](https://github.com/malee8/VirtualPet/blob/gh-pages/IMG_3427.GIF)   
 [Ye](https://github.com/YejinL12/VirtualPet/blob/417992b7f3a6ce451937e2eb7658ad4ae9a4c743/colorfulOcto.gif)   
 [Van](https://github.com/Vanthebot/VirtualPet/blob/gh-pages/otherArduinoSensor.gif)   
