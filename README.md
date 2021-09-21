@@ -85,7 +85,7 @@ Samples of Student Work
 [Eric](https://github.com/desolaterakan/VirtualPet/blob/gh-pages/froog.gif)   
 [Dylan](https://github.com/dy-alt/VirtualPet/blob/gh-pages/otherButtonsGif.gif)   
 [Mira](https://github.com/mira16-v/VirtualPet/blob/gh-pages/other_sensor_GIF.gif)   
-[Austin](https://classroom.google.com/g/tg/MzgwMTAzNzk0OTU3/Mzg2MzkwOTMwOTcy?authuser=0#u=MTE0MDM0NDIx)   
+[Austin](https://drive.google.com/file/d/1D1Qi2s2Je5oXO8p3k0hUTvZQGbxz4wwr/view)   
 [Jason](https://github.com/jawong32/Flappy)   
 [Ivana](https://github.com/ivxu24/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif.gif)   
 [Gary](https://github.com/Gary055/anime/blob/main/ezgif.com-gif-maker%20%281%29.gif)   
