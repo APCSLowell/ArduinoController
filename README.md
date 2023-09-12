@@ -309,4 +309,11 @@ Samples of Student Work
 [Yatlong](https://github.com/Yashen000/ArduinoController/blob/main/image.gif)
 [Luca](https://github.com/LucaTieman2/LightSensorController/blob/master/IMG_0519%20(2).gif)
 [Xinuo](https://github.com/jerrywiscool/VirtualPet/blob/gh-pages/Nightmare%20Afton%20Elephant.gif)
-
+[Blake](https://github.com/GnowEkalb/VirtualPet/blob/gh-pages/Other%20Sensors.gif)
+[Cherise](https://github.com/cherisemw/VirtualPet/blob/864e64114c45686f1081e902cc0f8cd585418bd1/other_arduino.gif)
+[Connie](https://github.com/cowu1/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif.gif)
+[Connor](https://github.com/conerthecone894/other_sensors/blob/main/other_sensors%20demo.gif)
+[Jocelyn](https://github.com/joyu8/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif%202.gif)
+[Kyle](https://github.com/RandomHouseGuest/ArduinoController/blob/main/ezgif.com-video-to-gif.gif)
+[Alan](https://github.com/alzhang17/VirtualPet/blob/gh-pages/ezgif.com-crop.gif)
+[Kunlin](https://github.com/mykinglebron/ArduinoController/blob/main/ezgif.com-video-to-gif.gif)
