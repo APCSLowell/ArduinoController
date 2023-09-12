@@ -285,3 +285,14 @@ Samples of Student Work
 [Ruibin](https://github.com/BenNotBen1224/Ben-Yu---StaticVirtualPet/commit/8dbf43ef4447c8c1e9517fb90b0acb41d93612fd)    
 [Wingyan](https://github.com/Wingyanyu0/ArduinoController/blob/main/9F5454B6-78D8-4AA4-9446-CC26C055384B.gif)   
 [Joseph](https://github.com/joyuen27/VirtualPet/blob/gh-pages/buttonGameGif.gif)    
+[Lilah](https://github.com/lilahanders817//blob/gh-pages/ezgif.com-video-to-gif-2.gif)
+[Jason](https://github.com/jachen28/VirtualPet/blob/78361cc9ca90947792310007)
+[Ethan](https://github.com/ethan-chu-shlawg/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif.gif)
+[Sebastian](https://github.com/SebastianAPCS/VirtualPet/blob/gh-pages/APCSA%20Virtual%20Pet%20%5BOther%20Sensors%5D.gif)
+[Ella](https://github.com/ellafink/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif%20(1).gif)
+[Myles](https://github.com/mygardiner/ArduinoController/blob/main/ezgif.com-video-to-gif%20(1).gif)
+[Oliver](https://github.com/OLGUO/VirtualPet/blob/gh-pages/865081AC-FBCB-46CF-9758-4F7D650415F2.jpeg)
+[Jaden](https://github.com/PaperTop/VirtualPet/blob/70c6b171ed349324fd7214ea7e64ecddc2b0a713/ezgif.com-video-to-gif.gif)
+
+
+
