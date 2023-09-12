@@ -293,6 +293,20 @@ Samples of Student Work
 [Myles](https://github.com/mygardiner/ArduinoController/blob/main/ezgif.com-video-to-gif%20(1).gif)
 [Oliver](https://github.com/OLGUO/VirtualPet/blob/gh-pages/865081AC-FBCB-46CF-9758-4F7D650415F2.jpeg)
 [Jaden](https://github.com/PaperTop/VirtualPet/blob/70c6b171ed349324fd7214ea7e64ecddc2b0a713/ezgif.com-video-to-gif.gif)
-
-
+[Austin](https://github.com/notauhuynh/VirtualPet/blob/gh-pages/ezgif-1-e5fb3bc3a3.gif)
+[Alyssa](https://github.com/aljow/VirtualPet/blob/gh-pages/movingCircle.gif)
+[Zachary](https://github.com/Zachary-Kaplan/VirtualPet/blob/gh-pages/ezgif.com-crop.gif)
+[Finley](https://github.com/finleycaul/VirtualPet/blob/gh-pages/ezgif-3-20506c8f60.gif)
+[Jamie](https://github.com/Jalau3/VirtualPet/blob/gh-pages/ezgif.com-optimize.gif)
+[Jacky](https_://github.com/Hombobow/VirtualPet/blob/gh-pages/ezgif.com-crop%20(1).gif)
+[Stephanie](https://github.com/stephelophagus/VirtualPet/blob/gh-pages/IMG_6107.GIF)
+[Jeffrey](https://github.com/Jelin16/VirtualPet/blob/88c8f585f7fbefdd681f7cb3587f886caee36173/ezgif.com-video-to-gif%202.gif)
+[Zhixuan](https://github.com/Alinazhliu69/VirtualPet/blob/gh-pages/Other%20Arduino.gif)
+[Jonathan](https://github.com/5ammich/VirtualPet/blob/gh-pages/Crane%20Game.gif)
+[Jaylan](https://github.com/JaylanL/VirtualPet/blob/gh-pages/ezgif.com-crop.gif)
+[Lotusseanna](https://github.com/lotuseana/VirtualPet/blob/8e28909a43a1c8267f4f8166589e5ee878afc42a/IMG_1410.gif)
+[Shea](https://github.com/SheaOdoherty/ArduinoController/blob/main/ezgif.com-video-to-gif%202.gif)
+[Yatlong](https://github.com/Yashen000/ArduinoController/blob/main/image.gif)
+[Luca](https://github.com/LucaTieman2/LightSensorController/blob/master/IMG_0519%20(2).gif)
+[Xinuo](https://github.com/jerrywiscool/VirtualPet/blob/gh-pages/Nightmare%20Afton%20Elephant.gif)
 
